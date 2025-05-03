@@ -1,6 +1,6 @@
 ## 📊 GitHub Stats:
 
-<table style="border: 2px solid white;">
+<table style="border: 2px solid #ff0000;">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Aarongel205&show_icons=true&theme=dark&count_private=true" />
