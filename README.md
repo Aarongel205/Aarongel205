@@ -9,7 +9,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" width="100%">
+    <td colspan="2" align="center">
       <img src="https://github-readme-stats-one-blond-56.vercel.app/api/top-langs/?username=Aarongel205&layout=compact&theme=dark" />
     </td>
   </tr>
