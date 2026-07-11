@@ -33,3 +33,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=150&section=header&text=Welcome%20Everyone!&fontSize=50&fontColor=FFFFFF&reversal=true"/>
+</p>
+
