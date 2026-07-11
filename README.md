@@ -34,6 +34,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=150&section=header&text=Welcome%20Everyone!&fontSize=50&fontColor=FFFFFF&reversal=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=150&section=footer&text=Welcome%20Everyone!&fontSize=50&fontColor=FFFFFF"/>
 </p>
 
