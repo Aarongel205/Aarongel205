@@ -1,15 +1,15 @@
 ## 📊 GitHub Stats:
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats-one-blond-56.vercel.app/api?username=Aarongel205&show_icons=true&theme=dark&count_private=true" />
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://streak-stats.demolab.com/?user=Aarongel205&theme=dark&ring=ff0000&fire=ff4500&currStreakLabel=ff0000&dates=ff0000" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
+  <tr style="border: none;">
+    <td style="border: none;" colspan="2" align="center">
       <img src="https://github-readme-stats-one-blond-56.vercel.app/api/top-langs/?username=Aarongel205&layout=compact&theme=dark" />
     </td>
   </tr>
