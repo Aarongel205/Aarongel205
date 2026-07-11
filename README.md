@@ -11,6 +11,7 @@
   <img src="https://github-readme-stats-one-blond-56.vercel.app/api/top-langs/?username=Aarongel205&layout=compact&theme=dark&card_width=500" />
 </p>
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
