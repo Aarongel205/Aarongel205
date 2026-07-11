@@ -1,19 +1,11 @@
 ## 📊 GitHub Stats:
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <img src="https://github-readme-stats-one-blond-56.vercel.app/api?username=Aarongel205&show_icons=true&theme=dark&count_private=true" />
-    </td>
-    <td style="border: none;">
-      <img src="https://streak-stats.demolab.com/?user=Aarongel205&theme=dark&ring=ff0000&fire=ff4500&currStreakLabel=ff0000&dates=ff0000" />
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none;" colspan="2" align="center">
-      <img src="https://github-readme-stats-one-blond-56.vercel.app/api/top-langs/?username=Aarongel205&layout=compact&theme=dark" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-one-blond-56.vercel.app/api?username=Aarongel205&show_icons=true&theme=dark&count_private=true" />
+  <img src="https://streak-stats.demolab.com/?user=Aarongel205&theme=dark&ring=ff0000&fire=ff4500&currStreakLabel=ff0000&dates=ff0000" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-one-blond-56.vercel.app/api/top-langs/?username=Aarongel205&layout=compact&theme=dark&card_width=500" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
