@@ -1,5 +1,5 @@
 ## 📊 GitHub Stats:
-<table style="border: 2px solid white;">
+<table style="border: none;">
   <tr>
     <td>
       <img src="https://github-readme-stats-one-blond-56.vercel.app/api?username=Aarongel205&show_icons=true&theme=dark&count_private=true" />
