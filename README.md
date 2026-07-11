@@ -12,9 +12,11 @@
 </p>
 
 <p align="center">
-  <p align="center">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Aarongel205/Aarongel205/output/github-contribution-grid-snake.svg" />
-</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aarongel205/Aarongel205/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aarongel205/Aarongel205/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Aarongel205/Aarongel205/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
