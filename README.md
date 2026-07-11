@@ -2,7 +2,7 @@
 <table style="border: 2px solid white;">
   <tr>
     <td>
-      <img src="https://github-readme-stats-one-blond-56.vercel.app/api?username=Aarongel205" />
+      <img src="https://github-readme-stats-one-blond-56.vercel.app/api?username=Aarongel205&show_icons=true&theme=dark&count_private=true" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com/?user=Aarongel205&theme=dark&ring=ff0000&fire=ff4500&currStreakLabel=ff0000&dates=ff0000" />
