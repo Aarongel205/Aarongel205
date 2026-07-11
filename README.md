@@ -1,6 +1,6 @@
 ## 📊 GitHub Stats:
 <table style="border: none; border-collapse: collapse;">
-  <tr>
+  <tr style="border: none;">
     <td>
       <img src="https://github-readme-stats-one-blond-56.vercel.app/api?username=Aarongel205&show_icons=true&theme=dark&count_private=true" />
     </td>
